@@ -1,0 +1,6 @@
+user_id,session_id,game_id,bet_amount,win_amount,duration_min,last_login,net_profit
+12345,ses001,book_of_ra,50.0,120.5,30,2024-10-28,70.5
+12345,ses002,gates_olympus,30.0,0.0,15,2024-10-28,-30.0
+67890,ses003,sweet_bonanza,100.0,250.0,45,2024-10-06,150.0
+67890,ses004,gonzo_quest,80.0,0.0,10,2024-10-06,-80.0
+54321,ses005,starburst,20.0,25.0,25,2024-10-15,5.0
