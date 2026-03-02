@@ -26,13 +26,3 @@ UML/BPMN/C4, Swagger, Postman, Jira/Confluence
 
 **Запусти SQL**: [DB Fiddle](https://www.db-fiddle.com/)  
 **Протестируй промпты**: ChatGPT/Claude
-
-Commit changes
-
-🎉 Шаг 6: ПРОВЕРКА — что у тебя есть сейчас
-У тебя должны быть файлы:
-✅ README.md (главная страница)
-✅ data/casino_logs_sample.csv  
-✅ sql/01_user_behavior.sql
-✅ sql/02_churn_features.sql (или 02_churn_risk.sql)
-✅ prompts/ai_slot_recommendations.md
