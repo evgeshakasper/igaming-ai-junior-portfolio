@@ -1,4 +1,4 @@
-# 🎰 iGaming AI Portfolio — Junior System Analyst
+# 🎰 iGaming AI Portfolio — System Analyst
 
 **Кейс**: Анализ поведения игроков → предсказание оттока → AI-рекомендации слотов
 
